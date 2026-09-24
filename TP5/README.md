@@ -11,4 +11,4 @@
 
 ## Resumo
 
-## Resultados
+## Lista de resultados
