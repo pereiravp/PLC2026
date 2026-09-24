@@ -4,7 +4,10 @@
 
 - Nome: Gonçalo Simões Pereira
 - Id: A111783
-- Foto: ![Foto](../foto.jpg)
+
+<p align="center">
+  <img src="../foto.jpg" alt="Foto" width="150">
+</p>
 
 ## Resumo
 
