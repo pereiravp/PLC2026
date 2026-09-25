@@ -12,7 +12,9 @@
 ## Resumo
 
 ## Resumo
-O exercício pedia uma expressão regular que aceite strings binárias que não contenham a substring "011". A expressão construída foi `1*(0+1)*0*`, considerando três blocos:
+
+O exercício pedia uma expressão regular que aceite strings binárias que não contenham a substring "011".
+A expressão construída foi `1*(0+1)*0*`, considerando três blocos:
 
 * uma sequência inicial de zero ou mais 1's;
 * seguida de zero ou mais repetições de "um ou mais 0's seguidos de exatamente um 1";
