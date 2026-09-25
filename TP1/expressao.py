@@ -1,3 +1,5 @@
+## Expressão Regular ^1*(0+1)*0*$
+
 ## Código Gerado pelo regex101
 
 import re
