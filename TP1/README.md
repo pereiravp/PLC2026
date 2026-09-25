@@ -1,4 +1,4 @@
-# TP1 - Expressão Regular que não contenham 011
+# TP1 - Expressão Regular
 
 ## Autor
 
