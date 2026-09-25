@@ -23,4 +23,4 @@ A expressão foi validada com vários casos de teste: strings sem zeros, com o p
 
 [Expressão Regular] (expressao)
 
-https://regex101.com/?regex=%5E1*%280%2B1%29*0*%24&testString=10101%0A0101%0A0110%0A0011%0A010101010000%0A1110001010%0A0001%0A101011%0A%0A01110%0A1110%0A000%0A&flags=gm&flavor=pcre2&delimiter=%2F
+https://regex101.com/r/jKN6PS/1
